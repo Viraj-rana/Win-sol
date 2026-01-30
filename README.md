@@ -1,9 +1,12 @@
 # WinSolution AI - Automated Code Review MVP
 
+![WinsolutionAI dashboard automatic/manual](images/img1.png)
+
 WinSolution AI is an intelligent "Automated Job" simulator that provides deep-dive architectural code reviews. Unlike standard linters, it uses advanced AI to analyze code against your custom engineering principles, verifying intent, logical consistency, and security risks.
 
 WinSolution AI — это интеллектуальный симулятор «автоматизированных заданий», обеспечивающий углубленный анализ архитектуры кода. В отличие от стандартных линтеров, он использует передовые технологии искусственного интеллекта для анализа кода на соответствие вашим собственным инженерным принципам, проверяя намерения, логическую согласованность и риски безопасности.
 
+![app interface configuration with github and gitlab](images/img2.png)
 
 **Important Usage Guideline**  
 This application is **exclusively for WinSolution Engineering team members**. Unauthorized access or use by external parties is strictly prohibited.
