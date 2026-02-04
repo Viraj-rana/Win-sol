@@ -1,5 +1,5 @@
 image: node:20
-
+#In stages we can also add deploy if you have static website page and you wanted to deploy the website on pages  - deploy
 stages:
   - review
 
